@@ -1,2 +1,3 @@
 # First_repo
-First repo for hands-on
+First repo for Git hands-on
+
